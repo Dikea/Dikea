@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[点击这里，查看我热爱了七年的技术：分布式云！](https://mp.weixin.qq.com/s/-pYHAt9UQUID3tow-kjBTA)
+[程序员最头疼的那件事：数据系统迁移，终于有救了！](https://mp.weixin.qq.com/s/vZ1S1MTYinvxhkHx4idDzA)
