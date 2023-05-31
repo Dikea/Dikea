@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[程序员最头疼的那件事：数据系统迁移，终于有救了！](https://mp.weixin.qq.com/s/vZ1S1MTYinvxhkHx4idDzA)
+[认真聊聊AIGC时代的一个核心问题](https://mp.weixin.qq.com/s/vZ1S1MTYinvxhkHx4idDzA)
